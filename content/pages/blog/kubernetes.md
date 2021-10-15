@@ -8,7 +8,7 @@ excerpt: >-
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
-  title: Why You Should Set Big Goals
+  title: Interesting facts about Kubernetes
   description: A interesting tale about Big Goals
   extra:
     - name: 'og:type'
