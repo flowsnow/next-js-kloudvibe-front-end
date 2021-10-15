@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:title'
       value: Interesting facts about AWS
     - name: 'twitter:description'
-      value: A interesting tale about Big Goals
+      value: Interesting facts about AWS
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
