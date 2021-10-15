@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: "Amazon Web Services (AWS)\_is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality "
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: /images/aws-0fa99ff5.png
       relativeUrl: true
 layout: post
 author: content/data/authors/jane-doe.yaml
