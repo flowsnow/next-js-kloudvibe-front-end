@@ -1,7 +1,7 @@
 ---
 title: 'Will DevOps survive in a Kubernetes world? '
 subtitle: Containers Containers Containers
-date: '2019-03-10'
+date: '2019-03-21'
 excerpt: >-
   All enterprises today are embracing digital transformation for continued
   growth and to gain a competitive edge. Cloud-native technologies such as
