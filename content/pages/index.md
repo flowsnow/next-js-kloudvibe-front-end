@@ -28,7 +28,7 @@ sections:
       that just goes through the curriculum and lets you figure out how to get a
       job.
     features:
-      - title: The Best Feature of Your Services
+      - title: Best instructors
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
