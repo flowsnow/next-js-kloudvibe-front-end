@@ -88,15 +88,7 @@ sections:
     title: >-
       Our experience and expertise in emerging technologies make the big ocean
       of IT feel like a breeze.
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
+    actions: []
   - section_id: recent-posts
     type: section_posts
     background: gray
