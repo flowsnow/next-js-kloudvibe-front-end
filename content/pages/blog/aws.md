@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:title'
       value: Interesting facts about AWS
     - name: 'twitter:description'
-      value: Interesting facts about AWS
+      value: "Amazon Web Services (AWS)\_is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality "
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
