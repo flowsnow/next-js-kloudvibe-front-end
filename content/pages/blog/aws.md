@@ -1,5 +1,5 @@
 ---
-title: 'Will DevOps survive in a Kubernetes world? '
+title: Let’s get Started!
 subtitle: Containers Containers Containers
 date: '2019-03-10'
 excerpt: >-
