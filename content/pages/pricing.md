@@ -85,7 +85,7 @@ seo:
       value: Pricing
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: ' After the technical level is achieved we guide our students through the interview process, as getting in the right set of mind is crucial to success'
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
