@@ -46,7 +46,7 @@ sections:
             url: /signup
             style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Upcoming Courses
     subtitle: >-
       The world of IT can be scary and intimidating,but it doesn't have to be
       that way. If you have a grain of faith in YOU and can allocate 3-4 hours
