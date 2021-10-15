@@ -76,7 +76,7 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 seo:
   title: Kloudvibe DevOps upcoming courses
-  description: Kloudvibe DevOps upcoming courses
+  description: ' After the technical level is achieved we guide our students through the interview process, as getting in the right set of mind is crucial to success'
   extra:
     - name: 'og:type'
       value: website
