@@ -65,7 +65,7 @@ sections:
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
           eget velit.
-      - question: Please feel free to ask anything
+      - question: Another important question and answer
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
