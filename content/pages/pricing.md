@@ -29,14 +29,6 @@ sections:
     actions: []
     type: section_content
     image: /images/Moby-run.png
-  - section_id: Docker
-    title: 04 DECEMBER 2021
-    content: "### Amazon Web Services (AWS)\n\nis a\_secure  and versatile cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.\n"
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-    image: /images/1_1S-Iwvkh_TRNuMHjDgavBw.png
   - section_id: lorem-ipsum
     title: 06 NOVEMBER 2021
     content: "\n\n> *Class starts on:*\n>\n> **kubernetes**\n\n*   Learn everything\_*Kubernetes*\_offers for each particular pattern, with tested conclusions.\n\n*   Get detailed, reusable\_*Kubernetes*\_patterns for container deployment and orchestration.\n"
@@ -45,6 +37,14 @@ sections:
     actions: []
     type: section_content
     image: /images/Why_DevOps_and_Kubernetes_Are_-a_Perfect_Match.png
+  - section_id: Docker
+    title: 04 DECEMBER 2021
+    content: "### Amazon Web Services (AWS)\n\nis a\_secure  and versatile cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.\n"
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
+    image: /images/1_1S-Iwvkh_TRNuMHjDgavBw.png
   - section_id: faq
     type: section_faq
     background: gray
