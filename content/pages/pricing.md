@@ -21,6 +21,14 @@ sections:
     background: gray
     features: []
     type: section_features
+  - section_id: Docker
+    title: 04 DECEMBER 2021
+    content: "\n\n### Amazon Web Services (AWS)\n\nis a\_secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.\n"
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
+    image: /images/1_1S-Iwvkh_TRNuMHjDgavBw.png
   - section_id: faq
     type: section_faq
     background: gray
@@ -48,14 +56,6 @@ sections:
           luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-  - section_id: Docker
-    title: 04 DECEMBER 2021
-    content: "\n\n### Amazon Web Services (AWS)\n\nis a\_secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.\n"
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-    image: /images/1_1S-Iwvkh_TRNuMHjDgavBw.png
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
