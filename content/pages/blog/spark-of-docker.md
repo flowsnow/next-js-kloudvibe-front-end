@@ -15,7 +15,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Release Notes - Azimuth Improvements and New Integrations
+      value: Interesting facts about Docker
       keyName: property
     - name: 'og:description'
       value: >-
