@@ -54,7 +54,7 @@
                         "style": "link"
                     },
                     {
-                        "label": "Sign Up",
+                        "label": "Check Our Courses",
                         "url": "/signup",
                         "style": "secondary"
                     }
