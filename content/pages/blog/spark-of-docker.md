@@ -7,7 +7,9 @@ image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
   title: Interesting facts about Docker
-  description: Interesting facts about Docker
+  description: >-
+    Docker helps developers build lightweight and portable software containers
+    that simplify application development, testing, and deployment.
   extra:
     - name: 'og:type'
       value: article
