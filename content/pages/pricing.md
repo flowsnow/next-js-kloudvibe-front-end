@@ -82,7 +82,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: Upcoming DevOps Courses in Park Ridge IL
       keyName: property
     - name: 'og:description'
       value: ' After the technical level is achieved we guide our students through the interview process, as getting in the right set of mind is crucial to success'
