@@ -89,6 +89,15 @@ sections:
       Our experience and expertise in emerging technologies make the big ocean
       of IT feel like a breeze.
     actions: []
+    subtitle: >-
+      KloudVibe emerged as a company that seeks out to connect our well-trained
+      students with IT companies across the United States. Our commitment is to
+      work with each one of our students, to help them to get a high paid job,
+      or advance their careers.We are a team of IT professionals who believe in
+      continuous learning and growing. At KloudVibe, we believe that anyone can
+      learn technology, if you have the right mentor. We walked the same paths
+      as our students, thus, we are qualified to guide them through this
+      rewarding journey.
   - section_id: recent-posts
     type: section_posts
     background: gray
