@@ -40,6 +40,7 @@ seo:
       relativeUrl: true
 layout: post
 subtitle: The spark for the container revolution
+image: /images/Docker-logo-4a00da55.jpg
 ---
 
 
