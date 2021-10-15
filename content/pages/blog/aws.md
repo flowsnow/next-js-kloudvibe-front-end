@@ -23,7 +23,7 @@ seo:
       value: Interesting facts about AWS
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: /images/aws-0fa99ff5.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
