@@ -37,6 +37,22 @@ sections:
     actions: []
     type: section_content
     image: /images/Why_DevOps_and_Kubernetes_Are_-a_Perfect_Match.png
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
   - section_id: Docker
     title: 04 DECEMBER 2021
     content: "### Amazon Web Services (AWS)\n\nis a\_secure  and versatile cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.\n"
@@ -72,22 +88,6 @@ sections:
           luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
 seo:
   title: Pricing
   description: This is the pricing page
