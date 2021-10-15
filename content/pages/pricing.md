@@ -21,14 +21,6 @@ sections:
     background: gray
     features: []
     type: section_features
-  - section_id: Docker
-    title: 04 DECEMBER 2021
-    content: "\n\n### Amazon Web Services (AWS)\n\nis a\_secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.\n"
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-    image: /images/1_1S-Iwvkh_TRNuMHjDgavBw.png
   - section_id: lorem-ipsum
     title: 25 October 2021
     content: "\n\n> *Class starts on:*\n>\n> *DOCKER*\n\n*   Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.\n\n*   With Docker, you can manage your infrastructure in the same ways you manage your applications.\n\n*   By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly.\n\n*   Significantly reduce the delay between writing code and running it in production.\n\n*   Docker works with all development tools you use including VS Code, CircleCI and GitHub. Leveraging Docker images to efficiently develop your own unique applications on Windows and Mac.\_\n"
@@ -37,6 +29,14 @@ sections:
     actions: []
     type: section_content
     image: /images/Moby-run.png
+  - section_id: Docker
+    title: 04 DECEMBER 2021
+    content: "\n\n### Amazon Web Services (AWS)\n\nis a\_secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.\n"
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
+    image: /images/1_1S-Iwvkh_TRNuMHjDgavBw.png
   - section_id: faq
     type: section_faq
     background: gray
