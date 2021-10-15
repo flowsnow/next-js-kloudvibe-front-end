@@ -3,8 +3,9 @@ title: 'Will DevOps survive in a Kubernetes world? '
 subtitle: Containers Containers Containers
 date: '2019-03-10'
 excerpt: >-
-  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-  turpis egestas.
+  Kubernetes Adoption All enterprises today are embracing digital transformation
+  for continued growth and to gain a competitive edge. Cloud-native technologies
+  such as Kubernetes 
 image_alt: kubernetes
 thumb_image_alt: ' All enterprises today are embracing digital transformation for continued growth and to gain a competitive edge. Cloud-native technologies such as Kubernetes '
 seo:
