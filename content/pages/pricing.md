@@ -55,7 +55,7 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: Feel free to contact us and ask anything related to Devops
     faq_items:
       - question: Do you have a payment plan?
         answer: |
