@@ -41,6 +41,10 @@ Kubernetes (K8s) is the [core engine of a containerized platform as a service](
 
 Where, then, does that leave DevOps as we know it?
 
+
+![](https://preview--next-js-9111b.stackbit.dev/\_static/app-assets/images/Why_DevOps_and_Kubernetes_Are\_-a_Perfect_Match.png)
+
+
 ## Kubernetes Adoption
 
 All enterprises today are embracing digital transformation for continued growth and to gain a competitive edge. Cloud-native technologies such as Kubernetes, provide the automation, visibility and control necessary to manage applications at scale and high innovation velocity.
@@ -88,3 +92,5 @@ Besides the above use cases, the system allows for constant monitoring and fast 
 ## In Summary
 
 Kubernetes brings significant agility, automation and optimization to the DevOps environment. It will be a catalyst for DevOps to break existing silos and evolve as a strategic function enabling business outcomes.
+
+![](/images/Why_DevOps_and_Kubernetes_Are\_-a_Perfect_Match.png)
