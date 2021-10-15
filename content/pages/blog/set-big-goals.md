@@ -1,5 +1,5 @@
 ---
-title: Why You Should Set Big Goals
+title: Will DevOps survive in a Kubernetes world? T
 excerpt: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
   turpis egestas.
