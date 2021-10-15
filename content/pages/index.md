@@ -134,7 +134,7 @@ seo:
         various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
         Docker, Ansible, Puppet, Kubernetes and Nagios 
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/devops-consulting-services-500x500-8c3e8943.png
       relativeUrl: true
 layout: landing
 ---
