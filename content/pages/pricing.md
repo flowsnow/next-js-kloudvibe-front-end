@@ -1,5 +1,5 @@
 ---
-title: 'Upcoming Courses '
+title: 'Upcoming DevOps Courses '
 sections:
   - section_id: lorem-ipsum
     title: Upcoming Courses
