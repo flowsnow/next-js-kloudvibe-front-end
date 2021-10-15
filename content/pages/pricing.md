@@ -43,7 +43,7 @@ sections:
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Sign up now
     subtitle: lorem-ipsum
     background: gray
     features: []
