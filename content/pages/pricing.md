@@ -98,5 +98,9 @@ seo:
         /images/depositphotos_240146540-stock-illustration-banner-devops-concept-software-engineering-bf03d134.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/devops-consulting-services-500x500-8c3e8943.png
+      keyName: property
+      relativeUrl: true
 layout: landing
 ---
