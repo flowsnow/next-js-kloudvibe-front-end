@@ -60,7 +60,7 @@ sections:
       - question: Do you have a payment plan?
         answer: |
           Yes we accept bitcoin
-      - question: What else
+      - question: 'Who this Bootcamp is for:'
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
