@@ -7,7 +7,7 @@ excerpt: >-
   growth and to gain a competitive edge. Cloud-native technologies such as
   Kubernetes
 image_alt: kubernetes
-thumb_image_alt: ' All enterprises today are embracing digital transformation for continued growth and to gain a competitive edge. Cloud-native technologies such as Kubernetes '
+thumb_image_alt: kubernetes
 seo:
   title: Interesting facts about Kubernetes
   description: ' All enterprises today are embracing digital transformation for continued growth and to gain a competitive edge. Cloud-native technologies such as Kubernetes '
