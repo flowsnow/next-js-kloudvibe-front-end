@@ -75,7 +75,7 @@ sections:
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 seo:
-  title: Pricing
+  title: Kloudvibe DevOps upcoming courses
   description: This is the pricing page
   extra:
     - name: 'og:type'
