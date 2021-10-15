@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: A interesting tale about Big Goals
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: /images/Kubernetes-logo.png
       relativeUrl: true
 layout: post
 author: content/data/authors/jane-doe.yaml
