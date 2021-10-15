@@ -140,7 +140,11 @@ Now that you know what you can do with AWS, lets have an overview of various AW
 
 7.  **X-Ray** — It makes it easy for developers to **analyze the behavior** of their distributed applications by providing request tracing, exception collection, and profiling capabilities.
 
-# Management Tools
+#
+
+![](/images/1\_1S-Iwvkh_TRNuMHjDgavBw.png)
+
+Management Tools
 
 1.  **CloudWatch** — It can be used to **monitor AWS environments** like CPU utilization of EC2 and RDS instances and trigger alarms based on different metrics.
 
