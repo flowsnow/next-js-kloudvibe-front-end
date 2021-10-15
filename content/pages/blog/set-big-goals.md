@@ -35,13 +35,56 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Will DevOps survive in a Kubernetes world? The short answer is, no. But don’t sound the death knell for DevOps just yet.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam maximus mauris sagittis, iaculis diam ac, ultrices risus. Aliquam finibus, ipsum eget ultricies imperdiet, arcu diam suscipit urna, eu bibendum tortor tellus vel risus. Praesent quis scelerisque velit. Curabitur varius erat non dignissim porta. Duis viverra sapien a metus semper, et porttitor dolor convallis. Nulla eu dolor volutpat, mollis arcu ut, semper ex. Morbi ultricies, quam et ullamcorper mattis, elit dolor facilisis dui, non consectetur erat elit eu sapien. Duis scelerisque ante iaculis, accumsan mi vel, tempus libero. Fusce quis ipsum in sapien consequat tempor. Duis varius blandit neque quis tempor. Sed sollicitudin ante vitae lectus feugiat tempus. Ut mauris ex, venenatis a vestibulum nec, ullamcorper a erat. Vivamus leo ipsum, porta in iaculis sit amet, euismod non mi.
+Kubernetes (K8s) is the [core engine of a containerized platform as a service](https://kubernetes.io/) (PaaS). When enterprises use PaaS, they offload the operations (ops) functions to a PaaS provider as a way of automating repetitive tasks. Kubernetes introduces greater flexibility and automation. However, optimization of K8s requires declaration and configuration effort.
 
-Curabitur sed tellus eu felis convallis cursus at vitae neque. Phasellus sem nulla, ornare sit amet augue quis, consectetur lobortis diam. Etiam in egestas orci. Curabitur scelerisque id ligula id rutrum. Maecenas pharetra sapien et hendrerit facilisis. Vestibulum finibus mauris et ultricies porta. Praesent laoreet mauris elit, a semper risus euismod at. Pellentesque ullamcorper augue augue, eget porta nisl volutpat nec. Mauris porttitor commodo tortor eu tincidunt. Ut ut enim iaculis, aliquam augue ut, cursus tortor.
+Where, then, does that leave DevOps as we know it?
 
-Cras interdum commodo commodo. Nunc condimentum, eros id consectetur tincidunt, metus ligula venenatis urna, sit amet pharetra dui purus sed tellus. Suspendisse finibus gravida risus, vel sodales nisl fringilla consequat. Aliquam sit amet mollis lorem. Suspendisse dignissim mi tortor, quis iaculis nulla fermentum ut. Nunc laoreet augue vitae aliquet aliquet. Praesent dapibus at dui sit amet interdum. Fusce finibus risus in nibh ultricies, a bibendum lacus pulvinar.
+## Kubernetes Adoption
 
-Proin viverra, ex ut ullamcorper finibus, purus odio porttitor neque, in blandit lectus massa vel massa. Etiam vel mauris ligula. Sed dignissim tellus vel ex tincidunt, eget tempus metus lobortis. In ex felis, fermentum ut ultrices in, consequat ut justo. Etiam ullamcorper, risus nec facilisis porta, ex quam mattis nisi, id consequat turpis massa non dolor. Vestibulum lectus ante, scelerisque quis tempor et, mattis eu justo. Sed ante orci, feugiat aliquet malesuada sed, efficitur ac ex. Morbi ex nisi, tempor eu congue quis, ultrices id justo. Etiam urna libero, porttitor at imperdiet at, ultricies ac erat. Pellentesque est nibh, volutpat nec tempus et, luctus vel urna. Cras faucibus dolor feugiat velit convallis, sit amet consectetur eros tempor. Integer mi elit, semper sed facilisis vel, convallis ut turpis.
+All enterprises today are embracing digital transformation for continued growth and to gain a competitive edge. Cloud-native technologies such as Kubernetes, provide the automation, visibility and control necessary to manage applications at scale and high innovation velocity.
 
-Curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
+Kubernetes provides [constructs and capabilities](https://containerjournal.com/topics/container-ecosystems/kubernetes-changing-the-game-for-enterprise-containerization/) in which operational functions such as managing, monitoring, updating and upgrading a cluster; scaling pods in or out; and managing resource handling are now done through code.
+
+Kubernetes allows users to configure their desired state for a deployment. Kubernetes controllers continuously check the state of a deployment and attempt to get it from the current state to the desired state. Tasks such as rollouts and rollbacks, scale up and scale down, etc., are now automated. Resource limits and conditions can be specified. Further, taints and tolerations optimize deployment at runtime.
+
+Technologies such as Istio integrate with Kubernetes to further streamline and automate complex operational tasks such as discovery, traffic management, monitoring and service rollout.
+
+Traditionally, DevOps was the “glue” that bound application development and IT infrastructure. Using Kubernetes, an enterprise now can use declarative API actions to have complete control over the application’s development infrastructure. So, is Kubernetes the “new infrastructure glue,” and if yes, does that make DevOps redundant?
+
+Not quite.
+
+## Evolution of DevOps
+
+DevOps is no longer just about continuous integration and continuous delivery (CI/CD). Kubernetes-based cloud-native application deployments offer tremendous opportunities for the role of DevOps to evolve and expand. The opportunity is to evolve from simply “the people who keep the lights on” to architects, enabling strategic business outcomes.
+
+To a casual observer, it may appear that operational tasks are minimized by the Kubernetes-led automation in the deployment pipeline, and during the deployment and operations processes. A deeper look unveils why that’s not so. While applications can be flexibly deployed using a Kubernetes configuration, understanding replicas, scale, taints and tolerations are not top of mind for many developers.
+
+“Good” configurations require a balance of key vectors such as faster deployment time, optimal resource usage, greater reliability and quick failure resolution, which are the catalysts for the DevOps evolution.
+
+In addition, the role of DevOps will also expand to include complex cross-functional collaboration with teams such as ones tasked with security to help provide better security in Kubernetes environments.
+
+## DevOps’ Transition to DevSecOps
+
+Security cannot be a silo within a Kubernetes environment. In fact, more emphasis these days is being placed on DevOps and security. Security practices are becoming more of a part of the software development life cycle. DevSecOps breaks the traditional silo between the Security and DevOps teams. In a Kubernetes environment, DevSecOps will now certify configurations, ensure security and enable compliance ahead of operational deployment. In other words, “Certify the factory instead of every component built by the factory.”
+
+For instance, this may include vulnerability assessment of images as soon as they are built, ensuring only attested images are deployed, automated checks of deployment manifests—i.e. infrastructure-as-code (IaC) templates against known bad configuration as soon as code is checked in—all well before a container image is deployed
+
+Enterprises must address the following five use cases to enable comprehensive security for cloud-native applications running in Kubernetes environments:
+
+1.  **Rich Discovery and Risk-Based Classification**: This is the ability to discover all services and help prioritize and classify to enable organizations to be more risk-aware. This is critical as there are a high number of resources, many of which are ephemeral.
+
+2.  **Protect Against Configuration Drift and Open Source Software Vulnerabilities**: This is the ability to detect all vulnerabilities in components of the container ecosystem including the container images, registries and the K8s control pane itself. This is also about the ability to manage the security posture of K8s control plane and the running containers clusters.
+
+3.  **Minimize Attack Surface and Prevent Escalations**: This is the ability to perform application or service-based segmentation in an environment based on resource usage. This creates a security zone at a container level, permissions for which are based on learned behavior.
+
+4.  **Extend Security Operations Center (SOC) to Cloud-Native Applications**: This is the ability to drive the detection and remediation of cloud-native threats.
+
+5.  **Access Governance and Compliance**: This is the ability to manage identity and access for all users and application components to create and manage a model of least privilege
+
+Besides the above use cases, the system allows for constant monitoring and fast feedback. This enables the promise of DevSecOps to deliver secure code faster.
+
+## In Summary
+
+Kubernetes brings significant agility, automation and optimization to the DevOps environment. It will be a catalyst for DevOps to break existing silos and evolve as a strategic function enabling business outcomes.
