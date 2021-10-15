@@ -10,7 +10,7 @@ excerpt: >-
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
-  title: Interesting facts about Kubernetes
+  title: Interesting facts about AWS
   description: Interesting facts about Kubernetes
   extra:
     - name: 'og:type'
