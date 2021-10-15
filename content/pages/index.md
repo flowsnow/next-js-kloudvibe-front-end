@@ -85,7 +85,9 @@ sections:
         content: 'Love the Machine Learning, Deep Learning and Back End Development.'
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: >-
+      Our experience and expertise in emerging technologies make the big ocean
+      of IT feel like a breeze.
     subtitle: >-
       KloudVibe emerged as a company that seeks out to connect our well-trained
       students with IT companies across the United States. Our commitment is to
