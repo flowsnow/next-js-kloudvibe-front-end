@@ -15,7 +15,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Why You Should Set Big Goals
+      value: Interesting facts about Kubernetes
       keyName: property
     - name: 'og:description'
       value: A interesting tale about Big Goals
