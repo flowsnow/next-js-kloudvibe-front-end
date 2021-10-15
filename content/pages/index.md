@@ -97,10 +97,7 @@ sections:
       learn technology, if you have the right mentor. We walked the same paths
       as our students, thus, we are qualified to guide them through this
       rewarding journey.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
+    actions: []
   - section_id: recent-posts
     type: section_posts
     background: gray
