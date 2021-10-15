@@ -37,7 +37,7 @@ seo:
       relativeUrl: true
 layout: post
 author: content/data/authors/jane-doe.yaml
-thumb_image: images/12_thumb.jpg
+thumb_image: /images/1_1S-Iwvkh_TRNuMHjDgavBw.png
 image: /images/aws-0fa99ff5.png
 ---
 ####
