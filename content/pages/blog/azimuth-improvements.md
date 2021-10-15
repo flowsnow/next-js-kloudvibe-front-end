@@ -1,6 +1,5 @@
 ---
 title: What is Docker?
-subtitle: The spark for the container revolution
 author: content/data/authors/john-doe.yaml
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
