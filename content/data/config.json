@@ -16,7 +16,7 @@
             {
                 "label": "Courses",
                 "url": "/courses",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Pricing",
