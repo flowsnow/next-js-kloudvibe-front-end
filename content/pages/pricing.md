@@ -57,7 +57,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     faq_items:
-      - question: Do you have a payment plan
+      - question: Do you have a payment plan?
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
