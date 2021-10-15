@@ -67,7 +67,8 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Study Program
-        image: images/feature3.png
+        image: >-
+          /images/depositphotos_240146540-stock-illustration-banner-devops-concept-software-engineering.jpg
         image_alt: App user profile preview
         content: >
           **03.**
