@@ -6,9 +6,17 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Looking for a professional career?
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      > *Change your Life and Become a DevOps Engineer*
+
+
+      The DevOps Training Program will provide you with in-depth knowledge of
+      various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+      Docker, Ansible, Puppet, Kubernetes and Nagios etc. This training is
+      completely hands-on and designed in a way to help you become a
+      practitioner through best practices in Continuous Development, Continuous
+      Testing, Configuration Management and Continuous Integration, and finally,
+      Continuous Monitoring of software throughout its development life cycle.
     actions:
       - label: Learn More
         url: /features
