@@ -24,11 +24,6 @@
                 "style": "secondary"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "primary"
