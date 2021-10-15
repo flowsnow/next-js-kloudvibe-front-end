@@ -296,7 +296,7 @@ models:
     type: page
     urlPath: /blog
     label: News
-    layout: blog
+    layout: news
     file: blog/index.md
     hideContent: false
     singleInstance: true
