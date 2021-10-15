@@ -2,12 +2,7 @@
 
  
 ## Editing Content 📝
-
-Once Stackbit creates a site, you can start editing the content using the free
-on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
-
-[![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
-
+ 
 Here's a few resources to get you started:
 
 - 📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
