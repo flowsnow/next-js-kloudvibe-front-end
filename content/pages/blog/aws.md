@@ -1,6 +1,8 @@
 ---
 title: Let’s get Started!
-subtitle: Containers Containers Containers
+subtitle: >-
+  Whether you are looking to learn about AWS for your career or for your
+  interest, I believe you will find this article helpful.
 date: '2019-03-10'
 excerpt: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
