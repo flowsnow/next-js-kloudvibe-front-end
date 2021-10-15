@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Release Notes - Azimuth Improvements and New Integrations
+      value: Interesting facts about Docker
     - name: 'twitter:description'
       value: >-
         Docker helps developers build lightweight and portable software
