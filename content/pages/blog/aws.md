@@ -20,7 +20,7 @@ seo:
       value: Interesting facts about AWS
       keyName: property
     - name: 'og:description'
-      value: Interesting facts about AWS
+      value: "Amazon Web Services (AWS)\_is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality "
       keyName: property
     - name: 'og:image'
       value: /images/aws-0fa99ff5.png
