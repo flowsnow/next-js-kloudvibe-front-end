@@ -92,6 +92,6 @@ seo:
     - name: 'twitter:title'
       value: Pricing
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: ' After the technical level is achieved we guide our students through the interview process, as getting in the right set of mind is crucial to success'
 layout: landing
 ---
