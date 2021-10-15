@@ -56,7 +56,7 @@
                     {
                         "label": "Sign Up",
                         "url": "/signup",
-                        "style": "link"
+                        "style": "secondary"
                     }
                 ]
             },
