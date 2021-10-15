@@ -39,17 +39,7 @@ sections:
     image: /images/Why_DevOps_and_Kubernetes_Are_-a_Perfect_Match.png
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "\n\nA fundamental difference between Kubernetes and Docker is that\_Kubernetes is meant to run across a cluster while Docker runs on a single node. Kubernetes is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner.\n"
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
