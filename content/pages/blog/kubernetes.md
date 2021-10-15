@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: Interesting facts about Kubernetes
     - name: 'twitter:description'
-      value: A interesting tale about Big Goals
+      value: Interesting facts about Kubernetes
     - name: 'twitter:image'
       value: /images/Kubernetes-logo.png
       relativeUrl: true
