@@ -23,8 +23,10 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Why people love us? We help our students realize their most important goal
+      - getting a well-paid job. This our common goal, and we are not the type
+      of school that just goes through the curriculum and lets you figure out
+      how to get a job.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
