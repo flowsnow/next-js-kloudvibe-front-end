@@ -30,7 +30,8 @@ seo:
     - name: 'twitter:title'
       value: Interesting facts about Kubernetes
     - name: 'twitter:description'
-      value: Interesting facts about Kubernetes
+      value: |2
+         All enterprises today are embracing digital transformation for continued growth and to gain a competitive edge. Cloud-native technologies such as Kubernetes 
     - name: 'twitter:image'
       value: /images/Kubernetes-logo.png
       relativeUrl: true
