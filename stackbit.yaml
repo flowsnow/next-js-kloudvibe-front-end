@@ -297,7 +297,7 @@ models:
     urlPath: /blog
     label: News
     layout: news
-    file: blog/index.md
+    file: news/index.md
     hideContent: false
     singleInstance: true
     fields:
