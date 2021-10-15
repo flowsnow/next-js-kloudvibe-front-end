@@ -22,7 +22,7 @@ seo:
          All enterprises today are embracing digital transformation for continued growth and to gain a competitive edge. Cloud-native technologies such as Kubernetes 
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: /images/Kubernetes-logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
