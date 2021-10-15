@@ -1,7 +1,7 @@
 ---
 title: What is Docker?
 subtitle: The spark for the container revolution
-date: '2017-03-26'
+date: '2021-05-26'
 excerpt: >-
   Docker helps developers build lightweight and portable software containers
   that simplify application development, testing, and deployment.
