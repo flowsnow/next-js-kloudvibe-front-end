@@ -120,7 +120,8 @@ seo:
         Docker, Ansible, Puppet, Kubernetes and Nagios 
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: >-
+        /images/depositphotos_240146540-stock-illustration-banner-devops-concept-software-engineering-bf03d134.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
