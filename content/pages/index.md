@@ -111,7 +111,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Kloudvibe DevOps Bootcamp in Park Ridge IL
+      value: Kloudvibe DevOps Bootcamp in Park Ridge IL.
       keyName: property
     - name: 'og:description'
       value: >-
