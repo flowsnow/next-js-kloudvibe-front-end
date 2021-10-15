@@ -21,7 +21,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: 'Why people love us? '
     subtitle: >-
       We help our students realize their most important goal - getting a
       well-paid job. This our common goal, and we are not the type of school
