@@ -86,7 +86,15 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      KloudVibe emerged as a company that seeks out to connect our well-trained
+      students with IT companies across the United States. Our commitment is to
+      work with each one of our students, to help them to get a high paid job,
+      or advance their careers.We are a team of IT professionals who believe in
+      continuous learning and growing. At KloudVibe, we believe that anyone can
+      learn technology, if you have the right mentor. We walked the same paths
+      as our students, thus, we are qualified to guide them through this
+      rewarding journey.
     actions:
       - label: Get Started
         url: /signup
