@@ -93,5 +93,10 @@ seo:
       value: Upcoming DevOps Courses in Park Ridge IL
     - name: 'twitter:description'
       value: ' After the technical level is achieved we guide our students through the interview process, as getting in the right set of mind is crucial to success'
+    - name: 'og:image'
+      value: >-
+        /images/depositphotos_240146540-stock-illustration-banner-devops-concept-software-engineering-bf03d134.jpg
+      keyName: property
+      relativeUrl: true
 layout: landing
 ---
