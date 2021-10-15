@@ -126,7 +126,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Kloudvibe DevOps Bootcamp in Park Ridge IL
     - name: 'twitter:description'
       value: >-
         The DevOps Training Program will provide you with in-depth knowledge of
