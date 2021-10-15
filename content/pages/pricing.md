@@ -31,7 +31,7 @@ sections:
     image: /images/Moby-run.png
   - section_id: Docker
     title: 04 DECEMBER 2021
-    content: "\n\n### Amazon Web Services (AWS)\n\nis a\_secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.\n"
+    content: "### Amazon Web Services (AWS)\n\nis a\_secure  and versatile cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.\n"
     image_alt: lorem-ipsum
     background: gray
     actions: []
