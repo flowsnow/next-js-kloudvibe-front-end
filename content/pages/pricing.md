@@ -44,7 +44,9 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
   - section_id: lorem-ipsum
     title: Sign up now
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Classes are on location only! We take pride in working directly with our
+      students
     background: gray
     features: []
     type: section_features
