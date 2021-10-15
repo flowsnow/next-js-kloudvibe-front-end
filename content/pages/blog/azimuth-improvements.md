@@ -1,5 +1,5 @@
 ---
-title: What is Docker? The spark for the container revolution
+title: What is Docker?
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis.
