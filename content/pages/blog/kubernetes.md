@@ -37,7 +37,7 @@ seo:
       relativeUrl: true
 layout: post
 author: content/data/authors/jane-doe.yaml
-thumb_image: images/12_thumb.jpg
+thumb_image: /images/Why_DevOps_and_Kubernetes_Are_-a_Perfect_Match-a4addad6.png
 image: /images/twjihe3bodu0wqowpwwr.png
 ---
 Will DevOps survive in a Kubernetes world? The short answer is, no. But don’t sound the death knell for DevOps just yet.
