@@ -9,7 +9,7 @@ image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
   title: Interesting facts about Kubernetes
-  description: Interesting facts about Kubernetes
+  description: ' All enterprises today are embracing digital transformation for continued growth and to gain a competitive edge. Cloud-native technologies such as Kubernetes '
   extra:
     - name: 'og:type'
       value: article
