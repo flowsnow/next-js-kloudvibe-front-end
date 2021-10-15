@@ -38,7 +38,7 @@ sections:
     type: section_content
     image: /images/1_1S-Iwvkh_TRNuMHjDgavBw.png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: 06 NOVEMBER 2021
     content: "\n\n> *Class starts on:*\n>\n> **kubernetes**\n\n*   Learn everything\_*Kubernetes*\_offers for each particular pattern, with tested conclusions.\n\n*   Get detailed, reusable\_*Kubernetes*\_patterns for container deployment and orchestration.\n"
     image_alt: lorem-ipsum
     background: gray
