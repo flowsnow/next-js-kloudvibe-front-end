@@ -29,7 +29,7 @@ sections:
       job.
     features:
       - title: Best instructors
-        image: images/feature1.png
+        image: /images/devops.png
         image_alt: App preview on a phone and tablet
         content: >
           > **01.**
