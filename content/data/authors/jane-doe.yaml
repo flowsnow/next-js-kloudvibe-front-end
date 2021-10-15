@@ -1,8 +1,5 @@
 first_name: Leo
 last_name: Bugaian
-bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Risus nullam eget felis eget nunc
-  lobortis. Sodales ut etiam sit amet nisl purus in mollis nunc. Enim ut tellus
-  elementum sagittis vitae.
+bio: |
+  DevOps Engineer
 photo: images/review2.jpg
