@@ -292,7 +292,7 @@ models:
           - stackbit_page_meta
         label: Seo
     labelField: title
-  blog:
+  news:
     type: page
     urlPath: /blog
     label: Blog
