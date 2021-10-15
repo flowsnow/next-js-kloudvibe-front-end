@@ -295,10 +295,10 @@ models:
   news:
     type: page
     urlPath: /blog
-    label: Blog
+    label: News
     layout: blog
     file: blog/index.md
-    hideContent: true
+    hideContent: false
     singleInstance: true
     fields:
       - type: string
