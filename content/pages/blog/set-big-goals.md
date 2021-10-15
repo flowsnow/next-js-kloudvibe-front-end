@@ -1,5 +1,5 @@
 ---
-title: Will DevOps survive in a Kubernetes world? T
+title: 'Will DevOps survive in a Kubernetes world? '
 excerpt: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
   turpis egestas.
