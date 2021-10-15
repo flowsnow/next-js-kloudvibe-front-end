@@ -57,7 +57,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     faq_items:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: Do
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
