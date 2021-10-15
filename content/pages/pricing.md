@@ -38,7 +38,7 @@ sections:
     type: section_content
     image: /images/Why_DevOps_and_Kubernetes_Are_-a_Perfect_Match.png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: What is Kubernetes vs Docker?
     content: "\n\nA fundamental difference between Kubernetes and Docker is that\_Kubernetes is meant to run across a cluster while Docker runs on a single node. Kubernetes is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner.\n"
     image_alt: lorem-ipsum
     actions: []
