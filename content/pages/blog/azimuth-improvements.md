@@ -10,7 +10,7 @@ excerpt: >-
 date: '2017-03-26'
 thumb_image: images/1_thumb.jpg
 seo:
-  title: Release Notes - Azimuth Improvements and New Integrations
+  title: Interesting facts about Docker
   description: >-
     Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
     massa primis.
