@@ -52,7 +52,6 @@ sections:
         image: /images/devops-consulting-services-500x500.png
         image_alt: App users welcoming a new member
         content: >
-          ![](https://wonderful-thyme-84b53.netlify.app/images/devops-6b217f54.png)
 
 
           **02.**
