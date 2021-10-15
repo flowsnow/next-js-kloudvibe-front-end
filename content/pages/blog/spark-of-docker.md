@@ -7,9 +7,7 @@ image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
   title: Interesting facts about Docker
-  description: >-
-    Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-    massa primis.
+  description: Interesting facts about Docker
   extra:
     - name: 'og:type'
       value: article
