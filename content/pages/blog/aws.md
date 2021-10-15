@@ -4,9 +4,7 @@ subtitle: >-
   Whether you are looking to learn about AWS for your career or for your
   interest, I believe you will find this article helpful.
 date: '2019-03-10'
-excerpt: >-
-  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-  turpis egestas.
+excerpt: "Amazon Web Services (AWS)\_is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality "
 image_alt: AWS
 thumb_image_alt: "Amazon Web Services (AWS)\_is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality "
 seo:
