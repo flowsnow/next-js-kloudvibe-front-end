@@ -1,9 +1,7 @@
 ---
 title: What is Docker?
 author: content/data/authors/john-doe.yaml
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+excerpt: Veni Vidi Vici
 date: '2017-03-26'
 thumb_image: images/1_thumb.jpg
 seo:
