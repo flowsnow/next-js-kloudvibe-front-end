@@ -114,7 +114,10 @@ seo:
       value: Stackbit Azimuth Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        The DevOps Training Program will provide you with in-depth knowledge of
+        various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+        Docker, Ansible, Puppet, Kubernetes and Nagios 
       keyName: property
     - name: 'og:image'
       value: images/hero.png
