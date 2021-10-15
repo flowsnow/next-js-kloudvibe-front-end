@@ -16,7 +16,7 @@
             {
                 "label": "Upcoming Courses",
                 "url": "/courses",
-                "style": "primary"
+                "style": "secondary"
             },
             {
                 "label": "Contact",
