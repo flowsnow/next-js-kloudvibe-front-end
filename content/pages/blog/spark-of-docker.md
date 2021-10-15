@@ -45,7 +45,7 @@ seo:
       relativeUrl: true
 layout: post
 author: content/data/authors/john-doe.yaml
-thumb_image: /images/Moby-run.png
+thumb_image: /images/Docker-logo.jpg
 image: /images/Docker-logo-4a00da55.jpg
 ---
 
