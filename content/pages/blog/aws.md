@@ -56,9 +56,7 @@ In simple words AWS allows you to do the following things-
 
 5.  Send bulk email to your customers.
 
-Now that you know what you can do with AWS, lets have an overview of various AWS services.
-
-> \*Want to read this story later? \*[*Save it in Heyday.*](http://heyday.xyz/)
+Now that you know what you can do with AWS, lets have an overview of various AWS service
 
 # Basic Terminologies
 
