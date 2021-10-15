@@ -72,8 +72,7 @@ sections:
         avatar_alt: Eric Widget's photo
         content: >-
           Simply the best IT training school specializing in Cloud Engineering,
-          DevOps Engineering, Data Analytics, Data Science, Machine Learning,
-          Deep Learning and Back End Development.
+          DevOps Engineering, Data Analytics, Data Science
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
