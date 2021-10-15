@@ -9,7 +9,7 @@ image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
   title: Interesting facts about Kubernetes
-  description: A interesting tale about Big Goals
+  description: Interesting facts about Kubernetes
   extra:
     - name: 'og:type'
       value: article
