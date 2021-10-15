@@ -296,8 +296,8 @@ models:
     type: page
     urlPath: /blog
     label: News
-    layout: news
-    file: news/index.md
+    layout: blog
+    file: blog/index.md
     hideContent: false
     singleInstance: true
     fields:
