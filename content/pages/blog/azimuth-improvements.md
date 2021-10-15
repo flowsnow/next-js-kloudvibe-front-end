@@ -1,5 +1,5 @@
 ---
-title: Release Notes - Azimuth Improvements and New Integrations
+title: What is Docker? The spark for the container revolution
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis.
