@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Why You Should Set Big Goals
+      value: Interesting facts about Kubernetes
     - name: 'twitter:description'
       value: A interesting tale about Big Goals
     - name: 'twitter:image'
