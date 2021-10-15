@@ -1,6 +1,6 @@
 ---
 title: 'Will DevOps survive in a Kubernetes world? '
-subtitle: lorem-ipsum
+subtitle: Containers Containers Containers
 date: '2019-03-10'
 excerpt: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
