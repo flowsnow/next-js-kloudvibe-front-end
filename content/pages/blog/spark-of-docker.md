@@ -19,8 +19,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum
-        massa massa primis.
+        Docker helps developers build lightweight and portable software
+        containers that simplify application development, testing, and
+        deployment.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
