@@ -50,17 +50,7 @@ sections:
     type: section_features
   - section_id: Docker
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "\n\n### Amazon Web Services (AWS)\n\nis a\_secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.\n"
     image_alt: lorem-ipsum
     background: gray
     actions: []
