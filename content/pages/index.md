@@ -59,13 +59,7 @@ sections:
 
           Kloudvibe offers you a comfortable and functional learning
           environment. Our classrooms have a cozy kitchen and a relaxation area.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Study Program
         image: /images/Moby-run.png
         image_alt: App user profile preview
