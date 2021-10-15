@@ -11,7 +11,7 @@ image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
   title: Interesting facts about AWS
-  description: Interesting facts about AWS
+  description: "Amazon Web Services (AWS)\_is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality "
   extra:
     - name: 'og:type'
       value: article
