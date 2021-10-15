@@ -60,20 +60,20 @@ sections:
       - question: Do you have a payment plan?
         answer: |
           Yes we accept bitcoin
-      - question: What else
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
-      - question: Another important question and answer
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+      - question: 'Who this Bootcamp is for:'
+        answer: |
+
+          Software Developers
+
+          *   # System Administrators
+
+          *   # Network Engineers
+
+          *   # Cloud Engineers
+
+          *   # Testing Engineers / QA
+      - question: What do I need to get setup for a class?
+        answer: "Unless otherwise specified, students are expected to provide their own computer systems for both classroom and virtual class sessions. For virtual sessions, students connect to the class via a video-conferencing service and so would need to have reliable high-speed internet. (A headset with microphone is recommended for better audio. Students connect to the class via a video-conferencing service provided by The Linux Foundation, though webcam is optional for the student.) About 1-2 weeks before their class, students will be sent a welcome email that will have more details on getting setup. Students may also go to the following url to find the setup requirements for their course -\_<https://training.linuxfoundation.org/cm/prep/>\_(just click on the specific course in the list at right to find the requirements for that specific class).\n"
 seo:
   title: Kloudvibe DevOps upcoming courses
   description: ' After the technical level is achieved we guide our students through the interview process, as getting in the right set of mind is crucial to success'
