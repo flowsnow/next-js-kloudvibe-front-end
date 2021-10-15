@@ -133,5 +133,6 @@
         ],
         "content": "&copy; Kloudvibe. All rights reserved. "
     },
-    "domain": "https://next-js-9111b.netlify.app"
+    "domain": "https://next-js-9111b.netlify.app",
+    "favicon": "/images/Docker-logo.jpg"
 }
