@@ -128,7 +128,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Azimuth Theme
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        The DevOps Training Program will provide you with in-depth knowledge of
+        various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+        Docker, Ansible, Puppet, Kubernetes and Nagios 
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
