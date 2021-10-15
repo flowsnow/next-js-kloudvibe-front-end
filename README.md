@@ -14,7 +14,7 @@ Here's a few resources to get you started:
 If you need a hand, make sure to check the [Stackbit support page](https://stackbit.link/project-readme-support).
 
 
-## Develop Locally
+###  Develop Locally
 
 1. [Create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/azimuth-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme using Stackbit.
 
