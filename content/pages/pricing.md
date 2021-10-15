@@ -1,5 +1,5 @@
 ---
-title: 'Upcoming DevOps Courses '
+title: Upcoming DevOps Courses  at Kloudvibe
 sections:
   - section_id: lorem-ipsum
     title: Upcoming Courses
