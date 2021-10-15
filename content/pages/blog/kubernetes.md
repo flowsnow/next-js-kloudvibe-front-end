@@ -18,7 +18,7 @@ seo:
       value: Interesting facts about Kubernetes
       keyName: property
     - name: 'og:description'
-      value: A interesting tale about Big Goals
+      value: Interesting facts about Kubernetes
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
