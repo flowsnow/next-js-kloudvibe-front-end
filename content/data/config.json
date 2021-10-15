@@ -20,7 +20,7 @@
             },
             {
                 "label": "About us",
-                "url": "/contact",
+                "url": "/about",
                 "style": "secondary"
             }
         ]
