@@ -38,9 +38,7 @@ author: content/data/authors/jane-doe.yaml
 thumb_image: images/12_thumb.jpg
 image: /images/aws-0fa99ff5.png
 ---
-#### Whether you are looking to learn about AWS for your career or for your interest, I believe you will find this article helpful.
-
-
+####
 
 **Amazon Web Services (AWS)** is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.
 
