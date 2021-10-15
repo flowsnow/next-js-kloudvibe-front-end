@@ -6,7 +6,7 @@ excerpt: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
   turpis egestas.
 image_alt: lorem-ipsum
-thumb_image_alt: ' All enterprises today are embracing digital transformation for continued growth and to gain a competitive edge. Cloud-native technologies such as Kubernetes '
+thumb_image_alt: kubernetes
 seo:
   title: Interesting facts about Kubernetes
   description: ' All enterprises today are embracing digital transformation for continued growth and to gain a competitive edge. Cloud-native technologies such as Kubernetes '
