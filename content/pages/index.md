@@ -71,7 +71,10 @@ sections:
           /images/depositphotos_240146540-stock-illustration-banner-devops-concept-software-engineering.jpg
         image_alt: App user profile preview
         content: >
-          **03.**
+          **03.**![](/images/depositphotos\_240146540-stock-illustration-banner-devops-concept-software-engineering.jpg)
+
+
+          ****
 
 
           The training program is developed based on real requests and demand
