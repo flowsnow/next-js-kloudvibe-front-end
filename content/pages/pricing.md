@@ -45,6 +45,11 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
   - section_id: faq
     type: section_faq
     background: gray
