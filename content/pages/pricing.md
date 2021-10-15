@@ -36,6 +36,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: /images/Moby-run.png
   - section_id: faq
     type: section_faq
     background: gray
