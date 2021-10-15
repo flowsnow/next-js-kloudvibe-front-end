@@ -6,7 +6,7 @@ excerpt: >-
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-10'
 thumb_image: images/12_thumb.jpg
-image: /images/Why_DevOps_and_Kubernetes_Are_-a_Perfect_Match.png
+image: /images/twjihe3bodu0wqowpwwr.png
 seo:
   title: Why You Should Set Big Goals
   description: A interesting tale about Big Goals
