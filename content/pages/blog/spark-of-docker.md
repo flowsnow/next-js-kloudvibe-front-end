@@ -33,8 +33,9 @@ seo:
       value: Release Notes - Azimuth Improvements and New Integrations
     - name: 'twitter:description'
       value: >-
-        Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum
-        massa massa primis.
+        Docker helps developers build lightweight and portable software
+        containers that simplify application development, testing, and
+        deployment.
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
