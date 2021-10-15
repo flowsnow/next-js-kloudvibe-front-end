@@ -8,7 +8,7 @@ excerpt: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
   turpis egestas.
 image_alt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: "Amazon Web Services (AWS)\_is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality "
 seo:
   title: Interesting facts about AWS
   description: "Amazon Web Services (AWS)\_is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality "
