@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Pricing
+      value: Upcoming DevOps Courses in Park Ridge IL
     - name: 'twitter:description'
       value: ' After the technical level is achieved we guide our students through the interview process, as getting in the right set of mind is crucial to success'
 layout: landing
