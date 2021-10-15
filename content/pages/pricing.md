@@ -76,7 +76,7 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 seo:
   title: Kloudvibe DevOps upcoming courses
-  description: This is the pricing page
+  description: Kloudvibe DevOps upcoming courses
   extra:
     - name: 'og:type'
       value: website
