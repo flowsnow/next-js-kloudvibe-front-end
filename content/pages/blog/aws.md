@@ -3,7 +3,7 @@ title: Let’s get Started!
 subtitle: >-
   Whether you are looking to learn about AWS for your career or for your
   interest, I believe you will find this article helpful.
-date: '2019-03-10'
+date: '2022-06-10'
 excerpt: "Amazon Web Services (AWS)\_is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality "
 image_alt: AWS
 thumb_image_alt: "Amazon Web Services (AWS)\_is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality "
