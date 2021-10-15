@@ -18,7 +18,12 @@ seo:
       value: Interesting facts about Kubernetes
       keyName: property
     - name: 'og:description'
-      value: Interesting facts about Kubernetes
+      value: >
+        Kubernetes Adoption
+
+        All enterprises today are embracing digital transformation for continued
+        growth and to gain a competitive edge. Cloud-native technologies such as
+        Kubernetes 
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
