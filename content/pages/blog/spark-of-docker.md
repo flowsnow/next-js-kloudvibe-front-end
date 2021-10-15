@@ -37,7 +37,7 @@ seo:
         containers that simplify application development, testing, and
         deployment.
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: /images/Moby-run.png
       relativeUrl: true
 layout: post
 author: content/data/authors/john-doe.yaml
