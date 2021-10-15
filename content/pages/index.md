@@ -41,13 +41,7 @@ sections:
           Experienced instructors from the largest IT companies in America are
           working with us. Our school provides full mentorship for you
           throughout the whole course, until you get a job.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Learning Environment
         image: /images/devops-consulting-services-500x500.png
         image_alt: App users welcoming a new member
