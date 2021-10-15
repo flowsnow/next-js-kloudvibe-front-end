@@ -5,7 +5,9 @@ date: '2017-03-26'
 excerpt: >-
   Docker helps developers build lightweight and portable software containers
   that simplify application development, testing, and deployment.
-image_alt: lorem-ipsum
+image_alt: >-
+  Docker helps developers build lightweight and portable software containers
+  that simplify application development, testing, and deployment.
 thumb_image_alt: lorem-ipsum
 seo:
   title: Interesting facts about Docker
