@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: 'Upcoming Courses '
 sections:
   - section_id: lorem-ipsum
     title: Upcoming Courses
