@@ -36,7 +36,7 @@ seo:
 layout: post
 author: content/data/authors/jane-doe.yaml
 thumb_image: images/12_thumb.jpg
-image: /images/aws.png
+image: /images/1_1S-Iwvkh_TRNuMHjDgavBw.png
 ---
 ## Whether you are looking to learn about AWS for your career or for your interest, I believe you will find this article helpful.
 
