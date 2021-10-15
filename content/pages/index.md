@@ -101,30 +101,40 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: Kloudvibe DevOps Bootcamp in Park Ridge IL
+  description: >-
+    The DevOps Training Program will provide you with in-depth knowledge of
+    various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+    Docker, Ansible, Puppet, Kubernetes and Nagios 
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Kloudvibe DevOps Bootcamp in Park Ridge IL
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        The DevOps Training Program will provide you with in-depth knowledge of
+        various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+        Docker, Ansible, Puppet, Kubernetes and Nagios 
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: >-
+        /images/depositphotos_240146540-stock-illustration-banner-devops-concept-software-engineering-bf03d134.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Kloudvibe DevOps Bootcamp in Park Ridge IL
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        The DevOps Training Program will provide you with in-depth knowledge of
+        various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+        Docker, Ansible, Puppet, Kubernetes and Nagios 
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/devops-consulting-services-500x500-8c3e8943.png
       relativeUrl: true
 layout: landing
 ---
