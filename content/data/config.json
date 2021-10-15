@@ -19,8 +19,8 @@
                 "style": "secondary"
             },
             {
-                "label": "Contact",
-                "url": "/contact",
+                "label": "About us",
+                "url": "/about",
                 "style": "secondary"
             }
         ]

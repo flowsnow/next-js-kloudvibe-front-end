@@ -42,6 +42,7 @@ export default class SectionReviews extends React.Component {
                         <div className="grid">{_.map(reviews, (review, index) => this.renderReview(review, index))}</div>
                     </div>
                 )}
+                
             </section>
         );
     }
