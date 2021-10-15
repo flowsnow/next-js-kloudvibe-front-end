@@ -44,6 +44,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: /images/Why_DevOps_and_Kubernetes_Are_-a_Perfect_Match.png
   - section_id: faq
     type: section_faq
     background: gray
