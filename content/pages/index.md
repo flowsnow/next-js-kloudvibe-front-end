@@ -101,7 +101,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: Kloudvibe DevOps Bootcamp in Park Ridge IL
   description: >-
     The DevOps Training Program will provide you with in-depth knowledge of
     various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
