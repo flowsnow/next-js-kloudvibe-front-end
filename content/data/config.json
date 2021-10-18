@@ -44,18 +44,13 @@
                         "style": "link"
                     },
                     {
-                        "label": "Blog",
+                        "label": "News and Interesting Articles",
                         "url": "/blog",
                         "style": "link"
                     },
                     {
-                        "label": "Contact",
-                        "url": "/contact",
-                        "style": "link"
-                    },
-                    {
                         "label": "Check Our Courses",
-                        "url": "/signup",
+                        "url": "/courses",
                         "style": "secondary"
                     }
                 ]
@@ -130,12 +125,12 @@
         "nav_links": [
             {
                 "label": "Terms of Service",
-                "url": "/terms-of-service",
+                "url": "/",
                 "style": "link"
             },
             {
                 "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "url": "/",
                 "style": "link"
             }
         ],
