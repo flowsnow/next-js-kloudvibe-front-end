@@ -130,7 +130,7 @@
             },
             {
                 "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "url": "/",
                 "style": "link"
             }
         ],
