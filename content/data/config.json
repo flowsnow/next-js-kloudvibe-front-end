@@ -49,11 +49,6 @@
                         "style": "link"
                     },
                     {
-                        "label": "Contact",
-                        "url": "/about",
-                        "style": "link"
-                    },
-                    {
                         "label": "Check Our Courses",
                         "url": "/courses",
                         "style": "secondary"
