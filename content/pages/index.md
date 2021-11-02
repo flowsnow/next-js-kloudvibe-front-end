@@ -40,7 +40,7 @@ sections:
 
           Experienced instructors from the largest IT companies in America are
           working with us. Our school provides full mentorship for you
-          throughout the whole course, until you get a job.
+          throughout the whole course, until you get a job
         actions: []
       - title: Learning Environment
         image: /images/devops-consulting-services-500x500.png
