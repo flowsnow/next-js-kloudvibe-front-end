@@ -29,7 +29,7 @@ sections:
       job.
     features:
       - title: Best instructors
-        image: /images/16399-data-eraser-software.gif
+        image: /images/41545-software-development.gif
         image_alt: App preview on a phone and tablet
         content: >
           > **01.**
