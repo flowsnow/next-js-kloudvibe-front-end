@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/community1.png
+    image: /images/34533-business-team.gif
     image_alt: App preview
     title: Looking for a professional career?
     content: >
