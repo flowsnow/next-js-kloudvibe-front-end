@@ -62,7 +62,7 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    background: gray
+    background: white
     features: []
     type: section_features
   - section_id: reviews
