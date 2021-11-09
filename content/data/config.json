@@ -44,11 +44,6 @@
                         "style": "link"
                     },
                     {
-                        "label": "News and Interesting Articles",
-                        "url": "/blog",
-                        "style": "link"
-                    },
-                    {
                         "label": "Check Our Courses",
                         "url": "/courses",
                         "style": "secondary"
