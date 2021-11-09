@@ -78,6 +78,7 @@ sections:
           - dolor sit amet
         image_alt: lorem-ipsum
         actions: []
+        image: /images/55932-laptop-and-man.gif
     type: section_features
   - section_id: reviews
     type: section_reviews
