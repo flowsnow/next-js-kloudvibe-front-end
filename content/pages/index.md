@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/community1.png
+    image: /images/71646-study.gif
     image_alt: App preview
     title: Looking for a professional career?
     content: >
@@ -29,7 +29,7 @@ sections:
       job.
     features:
       - title: Best instructors
-        image: /images/devops.png
+        image: /images/49999-guideline.gif
         image_alt: App preview on a phone and tablet
         content: >
           > **01.**
@@ -43,7 +43,7 @@ sections:
           throughout the whole course, until you get a job
         actions: []
       - title: Learning Environment
-        image: /images/devops-consulting-services-500x500.png
+        image: /images/72259-team.gif
         image_alt: App users welcoming a new member
         content: >
 
@@ -55,7 +55,7 @@ sections:
           environment. Our classrooms have a cozy kitchen and a relaxation area.
         actions: []
       - title: Study Program
-        image: /images/Moby-run.png
+        image: /images/55932-laptop-and-man.gif
         image_alt: App user profile preview
         content: "**03.**\n\n***\n\nThe training program is developed based on real requests and demand from employers/companies. Throughout the course, students work on real project\n\n![](https://preview--next-js-9111b.stackbit.dev/images/depositphotos\\_240146540-stock-illustration-banner-devops-concept-software-engineering.jpg)\uFEFF\n"
         actions: []
