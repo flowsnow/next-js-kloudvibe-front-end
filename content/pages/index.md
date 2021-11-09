@@ -55,7 +55,7 @@ sections:
           environment. Our classrooms have a cozy kitchen and a relaxation area.
         actions: []
       - title: Study Program
-        image: /images/Moby-run.png
+        image: /images/77491-devops.gif
         image_alt: App user profile preview
         content: "**03.**\n\n***\n\nThe training program is developed based on real requests and demand from employers/companies. Throughout the course, students work on real project\n\n![](https://preview--next-js-9111b.stackbit.dev/images/depositphotos\\_240146540-stock-illustration-banner-devops-concept-software-engineering.jpg)\uFEFF\n"
         actions: []
