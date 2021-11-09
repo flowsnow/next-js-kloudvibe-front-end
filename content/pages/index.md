@@ -43,7 +43,7 @@ sections:
           throughout the whole course, until you get a job
         actions: []
       - title: Learning Environment
-        image: /images/devops-consulting-services-500x500.png
+        image: /images/72259-team.gif
         image_alt: App users welcoming a new member
         content: >
 
