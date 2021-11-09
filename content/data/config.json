@@ -94,31 +94,6 @@
                         "no_follow": false
                     }
                 ]
-            },
-            {
-                "type": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
-                "form_id": "subscribeForm",
-                "hide_labels": true,
-                "form_fields": [
-                    {
-                        "input_type": "email",
-                        "name": "email",
-                        "label": "Email",
-                        "default_value": "Enter email address",
-                        "is_required": true
-                    },
-                    {
-                        "input_type": "text",
-                        "name": "Name",
-                        "label": "Name",
-                        "default_value": "Your name",
-                        "options": [],
-                        "is_required": false
-                    }
-                ],
-                "submit_label": "Subscribe"
             }
         ],
         "has_nav": true,
