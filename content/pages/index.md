@@ -29,7 +29,7 @@ sections:
       job.
     features:
       - title: Best instructors
-        image: /images/41545-software-development.gif
+        image: /images/49999-guideline.gif
         image_alt: App preview on a phone and tablet
         content: >
           > **01.**
