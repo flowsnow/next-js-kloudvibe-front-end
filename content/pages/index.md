@@ -59,27 +59,6 @@ sections:
         image_alt: App user profile preview
         content: "**03.**\n\n***\n\nThe training program is developed based on real requests and demand from employers/companies. Throughout the course, students work on real project\n\n![](https://preview--next-js-9111b.stackbit.dev/images/depositphotos\\_240146540-stock-illustration-banner-devops-concept-software-engineering.jpg)\uFEFF\n"
         actions: []
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: white
-    features:
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        image_alt: lorem-ipsum
-        actions: []
-        image: /images/55932-laptop-and-man.gif
-    type: section_features
   - section_id: reviews
     type: section_reviews
     background: white
